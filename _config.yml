@@ -1,0 +1,11 @@
+title: Lucid Wiki
+description: Film series wiki
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - AGENTS.md
+  - templates
